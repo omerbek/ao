@@ -1,0 +1,13 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My Project Description",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Building...'",
+    "start": "http-server ."
+  },
+  "dependencies": {
+    "http-server": "^14.1.0"
+  }
+}
