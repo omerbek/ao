@@ -4,7 +4,7 @@
   "description": "My Project Description",
   "main": "index.html",
   "scripts": {
-    "build": "echo 'Building...'",
+    "build": "mkdir dist && cp index.html dist/",
     "start": "http-server ."
   },
   "dependencies": {
