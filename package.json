@@ -1,7 +1,7 @@
 {
-  "name": "my-project",
+  "name": "HerculesNode",
   "version": "1.0.0",
-  "description": "My Project Description",
+  "description": "HerculesNode AO Project",
   "main": "index.html",
   "scripts": {
     "build": "mkdir dist && cp index.html dist/",
